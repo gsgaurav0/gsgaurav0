@@ -25,9 +25,8 @@ I enjoy turning ideas into real, working projects that combine software, electro
 - **ML-Based Object Detection (Drone Vision)**  
   Computer vision model for aerial object recognition.
 
-## Connect
-- GitHub: https://github.com/your-username  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your-email@example.com  
+## Connect 
+- LinkedIn: [https://linkedin.com/ ](https://www.linkedin.com/in/gaurav-sharma-aa6a10331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- Email: ss3573509@gmail.com 
 
 Always learning. Always building 🚀
