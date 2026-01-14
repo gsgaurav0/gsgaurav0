@@ -26,7 +26,7 @@ I enjoy turning ideas into real, working projects that combine software, electro
   Computer vision model for aerial object recognition.
 
 ## Connect 
-- LinkedIn: [https://linkedin.com/ ](https://www.linkedin.com/in/gaurav-sharma-aa6a10331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- LinkedIn: https://www.linkedin.com/in/gaurav-sharma-aa6a10331
 - Email: ss3573509@gmail.com 
 
 Always learning. Always building 🚀
